@@ -63,5 +63,5 @@
 
 5. Лабораторная работа №05: Оптимизация запросов с помощью индексов и анализа плана выполнения.
 
-&nbsp;&nbsp;&nbsp; [Отчёт]()
-&nbsp;&nbsp;&nbsp; [Файлы](https://github.com/cristycrastys-source/Labs_my_beloved/tree/874a329d6beb82bd3108943f429d096ee521d16c/SQL/Lab_5)
+&nbsp;&nbsp;&nbsp; ✖️[Отчёт]()
+&nbsp;&nbsp;&nbsp; ✖️[Файлы](https://github.com/cristycrastys-source/Labs_my_beloved/tree/874a329d6beb82bd3108943f429d096ee521d16c/SQL/Lab_5)

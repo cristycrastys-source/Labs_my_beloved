@@ -7,6 +7,8 @@
 1. Лабораторная работа №01: Реализация RPC-сервиса с использованием gRPC.
 
 &nbsp;&nbsp;&nbsp; ✖️[Отчёт]()
+
+https://github.com/cristycrastys-source/Labs_my_beloved/blob/main/Screenshots/minecraft-parrot-minecraft.gif?raw=true
 &nbsp;&nbsp;&nbsp; ✖️[Файлы](https://github.com/cristycrastys-source/Labs_my_beloved/tree/874a329d6beb82bd3108943f429d096ee521d16c/Distributed%20Systems/Lab_1)
 
 2. Лабораторная работа №02: Проектирование и реализация клиент-серверной системы. HTTP, веб-серверы и RESTful веб-сервисы.

@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/18404a9f-16ea-42a5-b9b3-7d9de913a2de)
+
 ✔️✖️✔️✖️✔️✖️✔️✖️✔️✖️✔️✖️✔️✖️✔️✖️✔️✖️✔️✖️✔️✖️✔️✖️✔️
 ---------------------------------------------------------------------------------------------
 **Распределенные системы**
@@ -66,5 +68,7 @@
 
 &nbsp;&nbsp;&nbsp; ✖️[Отчёт]()
 &nbsp;&nbsp;&nbsp; ✖️[Файлы](https://github.com/cristycrastys-source/Labs_my_beloved/tree/874a329d6beb82bd3108943f429d096ee521d16c/SQL/Lab_5)
+
+![Image](https://github.com/user-attachments/assets/ec330b40-9659-4030-b61f-33fb33a454a2)
 
 

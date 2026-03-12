@@ -34,6 +34,7 @@
 &nbsp;&nbsp;&nbsp; ✖️[Отчёт]()
 &nbsp;&nbsp;&nbsp; ✖️[Файлы](https://github.com/cristycrastys-source/Labs_my_beloved/tree/874a329d6beb82bd3108943f429d096ee521d16c/Distributed%20Systems/Lab_5)
 
+![Image](https://github.com/user-attachments/assets/b7827b34-7bc4-4505-9300-cbc7df4cd473)
 
 ✔️✖️✔️✖️✔️✖️✔️✖️✔️✖️✔️✖️✔️✖️✔️✖️✔️✖️✔️✖️✔️✖️✔️✖️✔️
 ---------------------------------------------------------------------------------------------

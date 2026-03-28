@@ -1,7 +1,7 @@
 ![Image](https://github.com/user-attachments/assets/a34270b2-952f-4723-affb-8e9b427d948b)
 
-&nbsp;&nbsp;&nbsp; ✔️[Заготовки оформления SQL отчётов](SQL scripts templates)
-&nbsp;&nbsp;&nbsp; ✔️[Заготовки оформления DS отчётов](DS scripts templates)
+&nbsp;&nbsp;&nbsp; ✔️[Заготовки_оформления_SQL_отчётов](Scripts Templates/SQL)
+&nbsp;&nbsp;&nbsp; ✔️[Заготовки оформления DS отчётов](Scripts Templates/Distributed Systems)
 
 ✔️✖️✔️✖️✔️✖️✔️✖️✔️✖️✔️✖️✔️✖️✔️✖️✔️✖️✔️✖️✔️✖️✔️✖️✔️
 ---------------------------------------------------------------------------------------------

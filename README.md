@@ -68,9 +68,9 @@
 
 2️⃣🪻Лабораторная работа №02: Использование соединений (JOIN), подзапросов и функций преобразования данных.
 
-&nbsp;&nbsp;&nbsp; ✖️[Отчёт](SQL/Lab_2/Отчёт.md)
-&nbsp;&nbsp;&nbsp; ✖️[Скриншоты](SQL/Lab_2/Screenshots)
-&nbsp;&nbsp;&nbsp; ✖️[Файлы](SQL/Lab_2)
+&nbsp;&nbsp;&nbsp; ✔️[Отчёт](SQL/Lab_2/Отчёт.md)
+&nbsp;&nbsp;&nbsp; ✔️[Скриншоты](SQL/Lab_2/Screenshots)
+&nbsp;&nbsp;&nbsp; ✔️[Файлы](SQL/Lab_2)
 
 3️⃣🪻Лабораторная работа №03: Агрегации и аналитические функции.
 

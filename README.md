@@ -74,9 +74,9 @@
 
 3️⃣🪻Лабораторная работа №03: Агрегации и аналитические функции.
 
-&nbsp;&nbsp;&nbsp; ✖️[Отчёт](SQL/Lab_3/Отчёт.md)
-&nbsp;&nbsp;&nbsp; ✖️[Скриншоты](SQL/Lab_3/Screenshots)
-&nbsp;&nbsp;&nbsp; ✖️[Файлы](SQL/Lab_3)
+&nbsp;&nbsp;&nbsp; ✔️[Отчёт](SQL/Lab_3/Отчёт.md)
+&nbsp;&nbsp;&nbsp; ✔️[Скриншоты](SQL/Lab_3/Screenshots)
+&nbsp;&nbsp;&nbsp; ✔️[Файлы](SQL/Lab_3)
 
 4️⃣🪻Лабораторная работа №04: Оконные функции для анализа данных.
 

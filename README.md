@@ -1,5 +1,3 @@
-![Image](https://github.com/user-attachments/assets/a34270b2-952f-4723-affb-8e9b427d948b)
-
 &nbsp;&nbsp;&nbsp; ✔️[Заготовки оформления SQL отчётов](Scripts%20Templates/SQL)
 &nbsp;&nbsp;&nbsp; ✖️[Заготовки оформления DS отчётов](Scripts%20Templates/Distributed%20Systems)
 
@@ -46,8 +44,6 @@
 &nbsp;&nbsp;&nbsp; ✖️[Скриншоты](SQL/Lab_5/Screenshots)
 &nbsp;&nbsp;&nbsp; ✖️[Файлы](SQL/Lab_5)
 
-![Image](https://github.com/user-attachments/assets/b7827b34-7bc4-4505-9300-cbc7df4cd473)
-
 ✔️✖️✔️✖️✔️✖️✔️✖️✔️✖️✔️✖️✔️✖️✔️✖️✔️✖️✔️✖️✔️✖️✔️✖️✔️
 ---------------------------------------------------------------------------------------------
 **Распределенные системы**
@@ -89,5 +85,3 @@
 &nbsp;&nbsp;&nbsp; ✖️[Отчёт](Distributed%20Systems/Lab_5/Отчёт.md)
 &nbsp;&nbsp;&nbsp; ✖️[Скриншоты](Distributed%20Systems/Lab_5/Screenshots)
 &nbsp;&nbsp;&nbsp; ✖️[Файлы](Distributed%20Systems/Lab_5)
-
-![Image](https://github.com/user-attachments/assets/ec330b40-9659-4030-b61f-33fb33a454a2)

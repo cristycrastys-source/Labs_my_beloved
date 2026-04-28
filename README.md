@@ -55,36 +55,24 @@
 
 1️⃣🪻Лабораторная работа №01: Реализация RPC-сервиса с использованием gRPC.
 
-&nbsp;&nbsp;&nbsp; ✖️[Отчёт](Distributed%20Systems/Lab_1/Отчёт.md)
-&nbsp;&nbsp;&nbsp; ✖️[Скриншоты](Distributed%20Systems/Lab_1/Screenshots)
-&nbsp;&nbsp;&nbsp; ✖️[Файлы](Distributed%20Systems/Lab_1)
+&nbsp;&nbsp;&nbsp; [✖️](DistributedSystems/Lab_1/Лаб_1.md)
 
 2️⃣🪻Лабораторная работа №02: Проектирование и реализация клиент-серверной системы. HTTP, веб-серверы и RESTful веб-сервисы.
 
-&nbsp;&nbsp;&nbsp; ✖️[Отчёт](Distributed%20Systems/Lab_2/Отчёт.md)
-&nbsp;&nbsp;&nbsp; ✖️[Скриншоты](Distributed%20Systems/Lab_2/Screenshots)
-&nbsp;&nbsp;&nbsp; ✖️[Файлы](Distributed%20Systems/Lab_2)
+&nbsp;&nbsp;&nbsp; [✖️](Distributed%20Systems/Lab_2/Отчёт.md)
 
 3️⃣✦1️⃣🪻Лабораторная работа №03_1: Организация асинхронного взаимодействия микросервисов с помощью брокера сообщений.
 
-&nbsp;&nbsp;&nbsp; ✖️[Отчёт](Distributed%20Systems/Lab_3.1/Отчёт.md)
-&nbsp;&nbsp;&nbsp; ✖️[Скриншоты](Distributed%20Systems/Lab_3.1/Screenshots)
-&nbsp;&nbsp;&nbsp; ✖️[Файлы](Distributed%20Systems/Lab_3.1)
+&nbsp;&nbsp;&nbsp; [✖️](Distributed%20Systems/Lab_3.1/Отчёт.md)
 
 3️⃣✦2️⃣🪻Лабораторная работа №03_2: Обнаружение отказов в распределенной системе.
 
-&nbsp;&nbsp;&nbsp; ✖️[Отчёт](Distributed%20Systems/Lab_3.2/Отчёт.md)
-&nbsp;&nbsp;&nbsp; ✖️[Скриншоты](Distributed%20Systems/Lab_3.2/Screenshots)
-&nbsp;&nbsp;&nbsp; ✖️[Файлы](Distributed%20Systems/Lab_3.2)
+&nbsp;&nbsp;&nbsp; [✖️](Distributed%20Systems/Lab_3.2/Отчёт.md)
 
 4️⃣🪻Лабораторная работа №04: Реализация механизмов безопасности в распределенной системе.
 
-&nbsp;&nbsp;&nbsp; ✖️[Отчёт](Distributed%20Systems/Lab_4/Отчёт.md)
-&nbsp;&nbsp;&nbsp; ✖️[Скриншоты](Distributed%20Systems/Lab_4/Screenshots)
-&nbsp;&nbsp;&nbsp; ✖️[Файлы](Distributed%20Systems/Lab_4)
+&nbsp;&nbsp;&nbsp; [✖️](Distributed%20Systems/Lab_4/Отчёт.md)
 
 5️⃣🪻Лабораторная работа №05: Проектирование и реализация комплексной микросервисной системы для автоматизации бизнес-процесса.
 
-&nbsp;&nbsp;&nbsp; ✖️[Отчёт](Distributed%20Systems/Lab_5/Отчёт.md)
-&nbsp;&nbsp;&nbsp; ✖️[Скриншоты](Distributed%20Systems/Lab_5/Screenshots)
-&nbsp;&nbsp;&nbsp; ✖️[Файлы](Distributed%20Systems/Lab_5)
+&nbsp;&nbsp;&nbsp; [✖️](Distributed%20Systems/Lab_5/Отчёт.md)

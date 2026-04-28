@@ -59,20 +59,20 @@
 
 2️⃣🪻Лабораторная работа №02: Проектирование и реализация клиент-серверной системы. HTTP, веб-серверы и RESTful веб-сервисы.
 
-&nbsp;&nbsp;&nbsp; [✖️](Distributed%20Systems/Lab_2/Отчёт.md)
+&nbsp;&nbsp;&nbsp; [✖️](https://github.com/cristycrastys-source/Labs_my_beloved/blob/main/Distributed%20Systems/Lab_2/Лаб_2.md)
 
 3️⃣✦1️⃣🪻Лабораторная работа №03_1: Организация асинхронного взаимодействия микросервисов с помощью брокера сообщений.
 
-&nbsp;&nbsp;&nbsp; [✖️](Distributed%20Systems/Lab_3.1/Отчёт.md)
+&nbsp;&nbsp;&nbsp; [✖️](https://github.com/cristycrastys-source/Labs_my_beloved/blob/main/Distributed%20Systems/Lab_3.1/Лаб_3.1.md)
 
 3️⃣✦2️⃣🪻Лабораторная работа №03_2: Обнаружение отказов в распределенной системе.
 
-&nbsp;&nbsp;&nbsp; [✖️](Distributed%20Systems/Lab_3.2/Отчёт.md)
+&nbsp;&nbsp;&nbsp; [✖️](https://github.com/cristycrastys-source/Labs_my_beloved/tree/main/Distributed%20Systems/Lab_3.2)
 
 4️⃣🪻Лабораторная работа №04: Реализация механизмов безопасности в распределенной системе.
 
-&nbsp;&nbsp;&nbsp; [✖️](Distributed%20Systems/Lab_4/Отчёт.md)
+&nbsp;&nbsp;&nbsp; [✖️](https://github.com/cristycrastys-source/Labs_my_beloved/tree/main/Distributed%20Systems/Lab_4)
 
 5️⃣🪻Лабораторная работа №05: Проектирование и реализация комплексной микросервисной системы для автоматизации бизнес-процесса.
 
-&nbsp;&nbsp;&nbsp; [✖️](Distributed%20Systems/Lab_5/Отчёт.md)
+&nbsp;&nbsp;&nbsp; [✖️](https://github.com/cristycrastys-source/Labs_my_beloved/blob/main/Distributed%20Systems/Lab_5/Лаб_5.md)

@@ -37,9 +37,9 @@
 
 4️⃣🪻Лабораторная работа №04: Оконные функции для анализа данных.
 
-&nbsp;&nbsp;&nbsp; ✖️[Отчёт](SQL/Lab_4/Отчёт.md)
-&nbsp;&nbsp;&nbsp; ✖️[Скриншоты](SQL/Lab_4/Screenshots)
-&nbsp;&nbsp;&nbsp; ✖️[Файлы](SQL/Lab_4)
+&nbsp;&nbsp;&nbsp; ✔️[Отчёт](SQL/Lab_4/Отчёт.md)
+&nbsp;&nbsp;&nbsp; ✔️[Скриншоты](SQL/Lab_4/Screenshots)
+&nbsp;&nbsp;&nbsp; ✔️[Файлы](SQL/Lab_4)
 
 5️⃣🪻Лабораторная работа №05: Оптимизация запросов с помощью индексов и анализа плана выполнения.
 

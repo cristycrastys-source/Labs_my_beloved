@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+// Пакет — логическая группировка, чтобы избежать конфликтов имён
+package order;
+
+// Сервис OrderManager — наш набор удалённых процедур
+service OrderManager {
+    // Unary RPC: один запрос → один ответ
+    rpc GetOrderStatus (OrderRequest) returns (OrderResponse) {}
+}
+
+// Сообщение-запрос: клиент передаёт ID заказа
+message OrderRequest {
+    string order_id = 1;  // order_id — поле, 1 — порядковый номер поля в сообщении
+}
+
+// Сообщение-ответ: сервер возвращает статус и дополнительную информацию
+message OrderResponse {
+    string order_id = 1;    // ID из запроса
+    string status = 2;      // статус заказа ("в обработке", "доставлен")
+    string message = 3;     // доп текстовое описание
+}

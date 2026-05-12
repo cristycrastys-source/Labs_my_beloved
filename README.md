@@ -55,7 +55,7 @@
 
 1️⃣🪻Лабораторная работа №01: Реализация RPC-сервиса с использованием gRPC.
 
-&nbsp;&nbsp;&nbsp; [✖️](https://github.com/cristycrastys-source/Labs_my_beloved/blob/main/Distributed%20Systems/Lab_1/Лаб_1.md)
+&nbsp;&nbsp;&nbsp; [✔️](https://github.com/cristycrastys-source/Labs_my_beloved/blob/main/Distributed%20Systems/Lab_1/Лаб_1.md)
 
 2️⃣🪻Лабораторная работа №02: Проектирование и реализация клиент-серверной системы. HTTP, веб-серверы и RESTful веб-сервисы.
 

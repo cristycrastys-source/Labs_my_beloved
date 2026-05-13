@@ -63,7 +63,7 @@
 
 3️⃣✦1️⃣🪻Лабораторная работа №03_1: Организация асинхронного взаимодействия микросервисов с помощью брокера сообщений.
 
-&nbsp;&nbsp;&nbsp; [✖️](https://github.com/cristycrastys-source/Labs_my_beloved/blob/main/Distributed%20Systems/Lab_3.1/Лаб_3.1.md)
+&nbsp;&nbsp;&nbsp; [✔️](https://github.com/cristycrastys-source/Labs_my_beloved/blob/main/Distributed%20Systems/Lab_3.1/Лаб_3.1.md)
 
 3️⃣✦2️⃣🪻Лабораторная работа №03_2: Обнаружение отказов в распределенной системе.
 

@@ -59,7 +59,7 @@
 
 2️⃣🪻Лабораторная работа №02: Проектирование и реализация клиент-серверной системы. HTTP, веб-серверы и RESTful веб-сервисы.
 
-&nbsp;&nbsp;&nbsp; [✖️](https://github.com/cristycrastys-source/Labs_my_beloved/blob/main/Distributed%20Systems/Lab_2/Лаб_2.md)
+&nbsp;&nbsp;&nbsp; [✔️](https://github.com/cristycrastys-source/Labs_my_beloved/blob/main/Distributed%20Systems/Lab_2/Лаб_2.md)
 
 3️⃣✦1️⃣🪻Лабораторная работа №03_1: Организация асинхронного взаимодействия микросервисов с помощью брокера сообщений.
 

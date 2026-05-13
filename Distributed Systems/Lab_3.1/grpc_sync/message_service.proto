@@ -1,0 +1,47 @@
+syntax = "proto3";
+
+package message;
+
+// Сервис с тремя методами для варианта 21
+service MessageService {
+  // Задание 1: сохранить пару ключ-значение в кэш
+  rpc CacheSet (CacheRequest) returns (CacheResponse);
+  
+  // Задание 2: закодировать или раскодировать текст в Base64
+  rpc Base64Process (Base64Request) returns (Base64Response);
+  
+  // Задание 3: посчитать количество символов без пробелов
+  rpc CountChars (TextRequest) returns (CharCountResponse);
+}
+
+// Запрос для кэша: содержит ключ и значение
+message CacheRequest {
+  string key = 1;    // название ключа (например, "user_123")
+  string value = 2;  // значение, которое сохраняется по этому ключу
+}
+
+// Ответ от кэша: возвращает строку "OK"
+message CacheResponse {
+  string status = 1;   // всегда "OK" при успешном сохранении
+}
+
+// Запрос для Base64: какое действие выполнить и с какими данными
+message Base64Request {
+  string action = 1;   // может быть "encode" (кодировать) или "decode" (раскодировать)
+  string data = 2;     // текст для кодирования или закодированная строка для раскодирования
+}
+
+// Ответ для Base64: возвращает результат преобразования
+message Base64Response {
+  string result = 1;   // закодированная или раскодированная строка
+}
+
+// Запрос для подсчёта символов: просто текст
+message TextRequest {
+  string text = 1;     // любой текст, который нужно обработать
+}
+
+// Ответ для подсчёта символов: количество символов без учёта пробелов
+message CharCountResponse {
+  int32 count = 1;     // число символов (пробелы не считаются)
+}

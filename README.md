@@ -67,7 +67,7 @@
 
 3️⃣✦2️⃣🪻Лабораторная работа №03_2: Обнаружение отказов в распределенной системе.
 
-&nbsp;&nbsp;&nbsp; [✖️](https://github.com/cristycrastys-source/Labs_my_beloved/tree/main/Distributed%20Systems/Lab_3.2)
+&nbsp;&nbsp;&nbsp; [✔️](https://github.com/cristycrastys-source/Labs_my_beloved/tree/main/Distributed%20Systems/Lab_3.2)
 
 4️⃣🪻Лабораторная работа №04: Реализация механизмов безопасности в распределенной системе.
 

@@ -71,7 +71,7 @@
 
 4️⃣🪻Лабораторная работа №04: Реализация механизмов безопасности в распределенной системе.
 
-&nbsp;&nbsp;&nbsp; [✖️](https://github.com/cristycrastys-source/Labs_my_beloved/tree/main/Distributed%20Systems/Lab_4)
+&nbsp;&nbsp;&nbsp; [✖️](https://github.com/cristycrastys-source/Labs_my_beloved/blob/main/Distributed%20Systems/Lab_4/Лаб_4.md)
 
 5️⃣🪻Лабораторная работа №05: Проектирование и реализация комплексной микросервисной системы для автоматизации бизнес-процесса.
 

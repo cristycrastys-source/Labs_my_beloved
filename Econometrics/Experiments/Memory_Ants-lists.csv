@@ -1,7 +1,0 @@
-"BehaviorSpace results (NetLogo 7.0.4)","Lists version 2.0"
-"Memory_Ants (1).nlogox"
-"experiment 2"
-"05/29/2026 13:56:22:013 +0300"
-"min-pxcor","max-pxcor","min-pycor","max-pycor"
-"-40","40","-40","40"
-"[reporter]","[run number]","use-memory?","evaporation-rate","diffusion-rate","more-food?","population","memory-threshold","[step]"

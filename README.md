@@ -86,4 +86,4 @@
 👾🪻Выгрузка кода. Муравьи с дополнением памяти.
 
 &nbsp;&nbsp;&nbsp; ✔️[Код](Econometrics/Memory_Ants.nlogox)
-&nbsp;&nbsp;&nbsp; ✔️[Файлы](Econometrics/Experiments)
+&nbsp;&nbsp;&nbsp; ✔️[Файлы](Econometrics/Эксперименты)
